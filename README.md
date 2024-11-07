@@ -2,6 +2,11 @@
 
 ## 🎯 O projektu
 Insur.Cap je napreden sistem za avtomatizacijo zavarovalniških procesov, ki uporablja umetno inteligenco in strojno učenje za analizo tveganj, ocenjevanje polic in upravljanje zavarovalniških produktov.
+https://www.linkedin.com/company/insur-cap/
+
+DEMO [AIA]: https://app.wordware.ai/explore/apps/2eb15610-a218-4262-b1f1-22daa3e1e461
+
+
 
 ## 🚀 Ključne funkcionalnosti
 
@@ -44,5 +49,3 @@ Insur.Cap je napreden sistem za avtomatizacijo zavarovalniških procesov, ki upo
 - Podatkovna baza PostgreSQL
 
 ## 🛠️ Namestitev in zagon
-
-1. Kloniranje repozitorija: 
